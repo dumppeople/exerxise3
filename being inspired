@@ -1,0 +1,16 @@
+to solve a problem about str 
+eg  c="'a'"
+extract  the string a
+m=""
+
+for i in c :
+  for j in i:
+    m+=i
+m=''
+   
+   
+   
+   
+   
+   
+   
